@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stateofclarity/static/css/main.7a20b036.css",
-    "main.js": "/stateofclarity/static/js/main.817312aa.js",
+    "main.css": "/stateofclarity/static/css/main.5d7969db.css",
+    "main.js": "/stateofclarity/static/js/main.1bc86cfe.js",
     "static/js/453.c752314c.chunk.js": "/stateofclarity/static/js/453.c752314c.chunk.js",
     "static/media/About.png": "/stateofclarity/static/media/About.3ac749c0df385ce884ff.png",
     "index.html": "/stateofclarity/index.html",
-    "main.7a20b036.css.map": "/stateofclarity/static/css/main.7a20b036.css.map",
-    "main.817312aa.js.map": "/stateofclarity/static/js/main.817312aa.js.map",
+    "main.5d7969db.css.map": "/stateofclarity/static/css/main.5d7969db.css.map",
+    "main.1bc86cfe.js.map": "/stateofclarity/static/js/main.1bc86cfe.js.map",
     "453.c752314c.chunk.js.map": "/stateofclarity/static/js/453.c752314c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a20b036.css",
-    "static/js/main.817312aa.js"
+    "static/css/main.5d7969db.css",
+    "static/js/main.1bc86cfe.js"
   ]
 }
